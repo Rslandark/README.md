@@ -1,6 +1,7 @@
 <img align="right" src="[https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07](https://avatars.githubusercontent.com/u/147310164?v=4)" />
 
-<h1 align="center"><a  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&pause=1000&color=F70909&random=false&width=435&lines=HiThere!%F0%9F%91%8B;I'm+Meorslan!)](https://git.io/typing-svg)
+<h1 align="center"><a  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=1000&color=F70909&random=false&width=435&lines=HiThere!%F0%9F%91%8B;I'm+Meorslan!" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">on journey to improve the cyber skills 😈</h3>
