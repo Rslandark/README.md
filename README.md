@@ -16,7 +16,7 @@
 
 💬 Ask me about **Cyper security, design, programming, Licensing... or anything [here](https://github.com/meorslan)**
 
-🫀 A**{أفضل الصدقة أن يتعلم المسلم علما ثم يعلمه أخاه المسلم}**
+🫀 **{أفضل الصدقة أن يتعلم المسلم علما ثم يعلمه أخاه المسلم}**🫀
 
 ⚡ Fun fact **Cyper security**
 
