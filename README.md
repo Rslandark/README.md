@@ -15,7 +15,7 @@
  🌱 I’m currently learning **CISSP**
 
 💬 Ask me about **Cyper security, design, programming, Licensing... or anything [here](https://github.com/meorslan)**
-🫀 **{أفضل الصدقة أن يتعلم المسلم علما ثم يعلمه أخاه المسلم}**
+🫀 A**{أفضل الصدقة أن يتعلم المسلم علما ثم يعلمه أخاه المسلم}**
 
 ⚡ Fun fact **Cyper security**
 
