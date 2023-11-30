@@ -1,7 +1,7 @@
 <img align="right" src="[https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07](https://avatars.githubusercontent.com/u/147310164?v=4)" />
 
-<h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70909&center=true&random=false&width=435&separator=%3C&lines=Hi%2BThere!%2B%F0%9F%91%8B;%2BI'm%2BMeorslan!;%22" alt="Typing SVG" /></a>
+<h1 align="center"><a 
+                       href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70909&random=false&width=435&lines=HiThere!%F0%9F%91%8B;I'm+Meorslan!" alt="Typing SVG" /></a>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Meorslan!;" />
 </h1>
 
