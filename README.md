@@ -1,7 +1,7 @@
 <img align="right" src="[https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07](https://avatars.githubusercontent.com/u/147310164?v=4)" />
 
-<h1 align="center"><a  
-                                                    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=1000&color=F70909&random=false&width=435&lines=HiThere!%F0%9F%91%8B;I'm+Meorslan!" alt="Typing SVG" /></a>
+<h1 align="center"><a
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&duration=4993&pause=1000&color=F70909&center=%D8%AE%D8%B7%D8%A3+%D8%B4%D9%86%D9%8A%D8%B9&vCenter=%D8%AE%D8%B7%D8%A3+%D8%B4%D9%86%D9%8A%D8%B9&repeat=%D8%AD%D9%82%D9%8A%D9%82%D9%8A&random=%D8%AE%D8%B7%D8%A3+%D8%B4%D9%86%D9%8A%D8%B9&width=435&lines=++++++++++++++++++++++++HiThere!%F0%9F%91%8B.+;++++++++++++++++++++++++I'm+Meorslan!" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">on journey to improve the cyber skills 😈</h3>
